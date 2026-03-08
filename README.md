@@ -9,9 +9,9 @@
 - **Place of Birth** Yilan,Luodong
 
 ## Course Information
-- **Course Title:** Data Structures  
-- **Course Code:** CS203A  
-- **Semester:** 11401  
+- **Course Title:** C++實習  
+- **Course Code:** R1008  
+- **Semester:** 11402  
 - **Instructor:** Yu-Feng Huang  
 - **Course Time(Classroom):** 
     - Monday 09:10–10:00 (R60104)
