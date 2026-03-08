@@ -13,6 +13,5 @@
 - **Course Code:** R1008  
 - **Semester:** 11402  
 - **Instructor:** Yu-Feng Huang  
-- **Course Time(Classroom):** 
-    - Monday 09:10–10:00 (R60104)
-    - Tuesday 15:10–17:00 (R1102)    
+- **Course Time(Classroom):**
+    - Tuesday 10:10–12:00 (R1008)    
